@@ -9,3 +9,7 @@ Steps to follow:
 3. Use command docker build -t my-flask-app . to build docker image.
 4. Use command docker build -t my-flask-app . to run the image.
 5. go to port and check out the web app.
+
+Video Link:
+
+[Screencast from 12-08-23 10:48:53 AM IST.webm](https://github.com/akaisky07/resume-keywords-extractor/assets/104855741/8b3b3686-309c-4cf8-befa-039533327719)
